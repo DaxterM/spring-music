@@ -14,6 +14,4 @@ applications:
   random-route: true
   routes:
   - route: dax-springmusic.cfapps.io
-  buildpacks:
-  - java_buildpack
 EOF
