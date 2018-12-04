@@ -13,7 +13,7 @@ applications:
   memory: 1G
   random-route: true
   routes:
-  - dax-springmusic
+  - dax-springmusic.cfapps.io
   buildpacks:
   - java_buildpack
 EOF
