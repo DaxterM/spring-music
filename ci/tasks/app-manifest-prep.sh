@@ -14,4 +14,5 @@ applications:
   random-route: true
   routes:
   - route: dax-springmusic.cfapps.io
+  path: /tmp/build/put/music-release/spring-music-*.war
 EOF
